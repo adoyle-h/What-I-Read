@@ -4,9 +4,14 @@
 
 <!-- MarkdownTOC GFM -->
 
+- [编程入门](#编程入门)
 - [Web Server Development](#web-server-development)
 
 <!-- /MarkdownTOC -->
+
+## 编程入门
+
+- [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 ## Web Server Development
 
