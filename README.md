@@ -1,14 +1,21 @@
 # What-I-Read
 
+记录我认为优秀的文章和书籍。
+
+本项目接受 Issue，不接受 Pull Request。
+
 ## TOC
 
 <!-- MarkdownTOC GFM -->
 
+- [每日所读](#每日所读)
 - [编程入门](#编程入门)
     - [函数式编程](#函数式编程)
 - [Web Server Development](#web-server-development)
 
 <!-- /MarkdownTOC -->
+
+## [每日所读](./daily/README.md)
 
 ## 编程入门
 
