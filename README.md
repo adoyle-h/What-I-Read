@@ -9,6 +9,7 @@
 <!-- MarkdownTOC GFM -->
 
 - [每日所读](#每日所读)
+- [技术书](#技术书)
 - [编程入门](#编程入门)
     - [函数式编程](#函数式编程)
 - [Web Server Development](#web-server-development)
@@ -16,6 +17,10 @@
 <!-- /MarkdownTOC -->
 
 ## [每日所读](./daily/README.md)
+
+## 技术书
+
+- [《Netkiller 系列 手札》](https://github.com/netkiller/netkiller.github.io)
 
 ## 编程入门
 
