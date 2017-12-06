@@ -10,3 +10,8 @@
 ## [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/)
 
 Wq 大师，幽默又深邃
+
+## [Makefile概念入门](https://zhuanlan.zhihu.com/p/29910215)
+
+《Makefile概念入门》
+虽然题目是 Makefile，但实际上更多的是解说要解决什么问题，怎么解决的思路。从现实需求出发不断演进，能感受到一种设计美学。作者的文笔和分析思路让我叹为观止
