@@ -18,6 +18,7 @@
 - [Docker](#docker)
 - [微服务](#微服务)
 - [Service Mesh](#service-mesh)
+- [设计](#设计)
 
 <!-- /MarkdownTOC -->
 
@@ -62,3 +63,7 @@
 ## Service Mesh
 
 - http://blog.christianposta.com/microservices/application-network-functions-with-esbs-api-management-and-now-service-mesh/
+
+## 设计
+
+- [Airbnb - Building a Visual Language](https://airbnb.design/building-a-visual-language/)
