@@ -1,11 +1,4 @@
-# 每日所读 - 技术
-
-## [左耳朵耗子 - 拖累开发团队效率的困局与解决之道](http://mp.weixin.qq.com/s/PQYbtbU_lRle3G4x7oG2uw)
-
-
-1. 分工不是让人永远只做一件事，而是把工作内容拆解从而让整体工作并行推进。
-2. 一个程序员应该能够掌握多个语言，也能够负责多个模块甚至不同的职责。如果一个程序员觉得多学习一门语言，多掌握一个模块是件很困难的事，那么这个程序员本质上是不合格的。
-3. 软件架构上要松耦合，团队组织上要紧耦合。
+# 技术
 
 ## [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/)
 
@@ -26,7 +19,7 @@ Wq 大师，幽默又深邃
 [作者另一篇反套路的文章](https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9)，但是治标不治本，而且只能拯救部分数据，而且还大大增加了开发的负担。
 引入开源依赖包是引入恶意代码的根本途径，简直就是给攻击者开的后门。
 
-## 关于数据结构
+## 数据结构
 
 https://softwareengineering.stackexchange.com/questions/163185/torvalds-quote-about-good-programmer
 
@@ -38,3 +31,19 @@ https://softwareengineering.stackexchange.com/questions/163185/torvalds-quote-ab
 https://www.wikiwand.com/zh-hans/Unix%E5%93%B2%E5%AD%A6
 
 最近才意识到数据结构的设计原来这么重要。数据结构是最稳定的，而算法逻辑是易变的。数据结构是程序的根基。
+
+## 编程入门
+
+- [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+- [Think in alternatives](https://blog.scottnonnenberg.com/think-in-alternatives-dev-productivity-tip-5/)
+
+  Think in alternatives 这篇文章好在，这是一个开发的思考成长经历
+    从「只会一个方法 / The one true way」到「多个看似正确的方案 / Multiple correct solutions」到「协调组合 / A classic continuum」与 增加「思考维度」与「权衡」，最后是「创新 / Breaking out of the box」
+
+- https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+- https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c
+- https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+
+## 函数式编程
+
+- [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
