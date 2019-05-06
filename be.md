@@ -17,3 +17,8 @@
 ## Redis
 
 - [Redis开发运维实践指南](https://github.com/gnuhpc/All-About-Redis)
+
+
+## Nginx
+
+- [Nginx Quick Reference](https://github.com/trimstray/nginx-quick-reference)

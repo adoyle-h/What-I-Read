@@ -7,6 +7,7 @@
 - [技术](./tech.md)
   - [前端](./fe.md)
   - [后端](./be.md)
+  - [安全](./security.md)
 - [设计](./design.md)
 - [思想](./thoughts.md)
 - [协作与管理](./team.md)
