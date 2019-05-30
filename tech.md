@@ -1,6 +1,11 @@
 # 技术
 
 - [UNIX TOOLBOX - 中文版](http://cb.vu/unixtoolbox_zh_CN.xhtml)
+- [Ops School Curriculum](http://www.opsschool.org/index.html)
+
+## [The two ways of doing something](http://voices.canonical.com/jussi.pakkanen/2014/07/22/the-two-ways-of-doing-something/)
+
+做最简单又正确的事。
 
 ## [Vim Koans](https://sanctum.geek.nz/arabesque/vim-koans/)
 
