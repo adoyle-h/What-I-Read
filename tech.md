@@ -3,6 +3,7 @@
 - [UNIX TOOLBOX - 中文版](http://cb.vu/unixtoolbox_zh_CN.xhtml)
 - [Ops School Curriculum](http://www.opsschool.org/index.html)
 - [The Linux Programmer's Guide](http://www.tldp.org/LDP/lpg/lpg.html)
+- [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
 
 ## [The two ways of doing something](http://voices.canonical.com/jussi.pakkanen/2014/07/22/the-two-ways-of-doing-something/)
 
@@ -55,3 +56,7 @@ https://www.wikiwand.com/zh-hans/Unix%E5%93%B2%E5%AD%A6
 ## 函数式编程
 
 - [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide)
+
+## 网络
+
+- https://hpbn.co
