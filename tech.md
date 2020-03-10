@@ -4,6 +4,7 @@
 - [Ops School Curriculum](http://www.opsschool.org/index.html)
 - [The Linux Programmer's Guide](http://www.tldp.org/LDP/lpg/lpg.html)
 - [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+- [《Software Foundations》中译版 ](https://Coq-zh.github.io/SF-zh/)
 
 ## [The two ways of doing something](http://voices.canonical.com/jussi.pakkanen/2014/07/22/the-two-ways-of-doing-something/)
 

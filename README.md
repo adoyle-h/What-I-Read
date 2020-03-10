@@ -15,4 +15,6 @@
 - [博客](./blogs.md)
 - [书](./books.md)
 
-## 其他
+## 版权声明
+
+Copyright (c) 2017-2020 ADoyle. All rights reserved.
